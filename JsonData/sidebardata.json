@@ -1,0 +1,108 @@
+[
+  {
+    "id": 0,
+    "name": "Home",
+    "icon": "/dashBoardSVG/dashboard.svg",
+    "link": true,
+    "url": "/deshboard",
+    "subCat": []
+  },
+  {
+    "id": 1,
+    "name": "Dashboard",
+    "icon": "/dashBoardSVG/dashboard.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "Invoice", "url": "/deshboard/invoice" },
+      { "id": 2, "name": "Profile", "url": "/deshboard/profile" },
+      { "id": 3, "name": "Mail", "url": "/deshboard/mail" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Listing",
+    "icon": "/dashBoardSVG/list.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "List 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 2, "name": "List 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 3, "name": "List 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 4, "name": "List 1", "icon": "/dashBoardSVG/dashboard.svg" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Offer",
+    "icon": "/dashBoardSVG/offer.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "Offer 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 2, "name": "Offer 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 3, "name": "Offer 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 4, "name": "Offer 1", "icon": "/dashBoardSVG/dashboard.svg" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Event",
+    "icon": "/dashBoardSVG/event.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "Event 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 2, "name": "Event 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 3, "name": "Event 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 4, "name": "Event 1", "icon": "/dashBoardSVG/dashboard.svg" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Discount",
+    "icon": "/dashBoardSVG/discount.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "Discount 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 2, "name": "Discount 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 3, "name": "Discount 1", "icon": "/dashBoardSVG/dashboard.svg" },
+      { "id": 4, "name": "Discount 1", "icon": "/dashBoardSVG/dashboard.svg" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Earning",
+    "icon": "/dashBoardSVG/erning.svg",
+    "link": true,
+    "url": "/",
+    "subCat": []
+  },
+  {
+    "id": 7,
+    "name": "User",
+    "icon": "/dashBoardSVG/user.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "User 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 2, "name": "User 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 3, "name": "User 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 4, "name": "User 1", "icon": "/dashBoardSVG/user.svg" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Social Media",
+    "icon": "/dashBoardSVG/user.svg",
+    "link": false,
+    "url": "",
+    "subCat": [
+      { "id": 1, "name": "Social Media 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 2, "name": "Social Media 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 3, "name": "Social Media 1", "icon": "/dashBoardSVG/user.svg" },
+      { "id": 4, "name": "Social Media 1", "icon": "/dashBoardSVG/user.svg" }
+    ]
+  }
+]

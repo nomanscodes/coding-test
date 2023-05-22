@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "model-2-s-3-y",
+    "title": "Lorem ipsum dolor ",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car1.avif",
+    "price": 3000,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "model-new-sports",
+    "title": "Pet Liner",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car2.avif",
+    "price": 4500,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "model-laatest-car",
+    "title": "Creating maximum ",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car3.avif",
+    "price": 3000,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "pet-liner-is-made",
+    "title": "Water-resistant",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car4.avif",
+    "price": 4700,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "pet-liner-allumini",
+    "title": "Model S/3/Y Pet ",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car5.avif",
+    "price": 4000,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "liner-is-alluminium",
+    "title": "Pet Liner",
+    "description": "Model S/3/Y Pet Liner is made from a breathable quilted fleece material, creating maximum comfort for your pet during car rides or while relaxing in Dog Mode. Designed exclusively for the second row of Model S, Model 3 and Model Y, the three-piece set features a durable water-resistant hammock-style liner and two door protectors to safeguard against paws, dirt, pet hair and any accidental slobber.",
+    "img": "/image/car6.avif",
+    "price": 4200,
+    "smallImage": [
+      {
+        "id": 1,
+        "image": "/image/small1.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small2.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small3.avif"
+      },
+      {
+        "id": 1,
+        "image": "/image/small4.avif"
+      }
+    ]
+  }
+]
