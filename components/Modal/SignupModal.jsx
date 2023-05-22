@@ -53,7 +53,7 @@ const SignupModal = ({ openSignUpModal, setOpenSignUpModal, setOpenLoginmodal })
               }
               className=" text-[#2d6f6d] cursor-pointer"
             >
-              Login
+              Registration
             </div>
           </p>
         </div>
@@ -103,7 +103,7 @@ const SignupModal = ({ openSignUpModal, setOpenSignUpModal, setOpenLoginmodal })
               </Link>
             </div>
             <button className="transition ease-out delay-150 text-white text-lg  font-medium hover:-translate-y-1 hover:scale-110 bg-[#2d6f6d] duration-300  p-3  w-32 rounded-md  mt-8">
-              Login
+              Create
             </button>
           </form>
         </div>
