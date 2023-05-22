@@ -26,7 +26,6 @@ export default NextAuth({
         if (!isPasswordMatched) {
           throw new Error("Invalid Email or Password");
         }
-
         return user;
       },
     }),
@@ -34,5 +33,5 @@ export default NextAuth({
   pages: {
     signIn: "/",
   },
-  secret: process.env.secretKey,
+  secret: process.env.NEXTAUTH_SECRET,
 });
